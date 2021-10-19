@@ -12,6 +12,8 @@ We chose use case #2, predict the amount of passengers in a bus on a specific da
 
 For this use case, we chose a regression(forest) algorithm. We intially completed the task with a classificationforest, but after testing with a regression-algorithm, we achieved a ~25% drop in our MAE (Mean Absolute Error) score, from 4.04 -> 3.39. Lower is better in this case.
 
+Since the amount of entries in the dataset is so low, we trained two models; one for determining the MSE with a 0.25 test-size, and one with all the data in the dataset, which is used for predicting a day specified by the user.
+
 <hr>
 
 
