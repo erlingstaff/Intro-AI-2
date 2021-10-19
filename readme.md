@@ -12,3 +12,4 @@ To guess the amount of passengers on a specific day, edit the "year", "month", a
 *Example-tree in the forest:*
 
 
+![output](https://user-images.githubusercontent.com/38101463/137978270-2c1c0e8c-3bc9-4771-bdee-c0b21ecf03d8.png)
