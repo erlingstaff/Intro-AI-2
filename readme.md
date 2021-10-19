@@ -16,7 +16,7 @@ Kristian Smedsrøud -
 
 To guess the amount of passengers on a specific day for bus *150*, edit the "year", "month", and "day" variables in the last cell
 
-MAE (Mean Absolute Error) with test-size 0.25 and a dataset of 96 entries: **4.04** 
+MAE (Mean Absolute Error) with test-size 0.25 and a dataset of 96 entries: **3.39** 
 
 *Example-tree in the forest:*
 
