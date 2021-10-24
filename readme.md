@@ -4,7 +4,7 @@ Erling Mathias Staff - S354344
 
 Ole Jørgen Knoph - s354371
 
-Kristian Smedsrøud - 
+Kristian Smedsrød - s354374
 
 <hr>
 
